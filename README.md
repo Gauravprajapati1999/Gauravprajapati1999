@@ -23,9 +23,9 @@
 
 * My primary coding language: Javascript
 * Earned Gold badge & 5 star at HackerRank in Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://gauravprajapati.hashnode.dev/) & make educational [YouTube Videos](https://www.youtube.com/c/TechnicalGaurav9/).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
+* Join my [Discord server](https://discord.gg/) | [Telegram Channel](https://t.me/technicalgaurav1999).
 <!--* 🏠 Hogwarts House: Griffindor-->
 <!--* If you play Call of Duty- add me: Blackhood@00-->
 <!--* I am currently learning Docker-->
@@ -40,44 +40,35 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
-- [How to Perform Google Search using Python](https://ayushirawat.com/how-to-perform-google-search-using-python)
-- [Top 5 Languages to Learn to Get a Job in 2021](https://ayushirawat.com/top-5-languages-to-learn-to-get-a-job-in-2021)
-- [5 COVID Related Interview Questions You Must Know About](https://ayushirawat.com/5-covid-related-interview-questions-you-must-know-about)
-- [Top 5 Books for learning Python](https://ayushirawat.com/top-5-books-for-learning-python)
+- [Understanding CSS Selectors: Pseudo-Class Selectors](https://gauravprajapati.hashnode.dev/understanding-css-selectors-pseudo-class-selectors)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://ayushirawat.com/)
+➡️ [more blog posts...](https://gauravprajapati.hashnode.dev/)
 </td>
 <td valign="top" width="50%">
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
-- [Top 5 IDE's for Python ](https://www.youtube.com/watch?v=OMpENyXDKuM)
-- [How to Perform Google Search using Python ](https://www.youtube.com/watch?v=JO_2EjW0jSM)
-- [1295. Find Numbers with Even Number of Digits ](https://www.youtube.com/watch?v=YJGii6LL-Es)
-- [136 Single Number ](https://www.youtube.com/watch?v=KsyvKkzm6qA)
-- [1848. Minimum Distance to the Target Element ](https://www.youtube.com/watch?v=Zu_nAwjdbts)
+- [starbucks landing page website design using html css & javascript | step by step web design tutorial](https://www.youtube.com/watch?v=fwvmlHvNg5s&t=5s)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+➡️ [more videos...](https://www.youtube.com/c/TechnicalGaurav9/)
 </td>
 
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gauravprajapati199&show_icons=true&theme=gotham" alt="Gaurav Prajapati | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Gauravprajapati199}/count.svg)
 
 
 [twitter]: https://twitter.com/gaurav895950
-[youtube]: https://youtube.com/ayushirawat
-[Hashnode]: https://ayushirawat.com
+[youtube]: https://www.youtube.com/c/TechnicalGaurav9/
+[Hashnode]: https://https://gauravprajapati.hashnode.dev/
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/gauravprajapati_1999/
-[Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/gauravprajapati91
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
