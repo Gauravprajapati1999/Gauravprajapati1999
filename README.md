@@ -21,8 +21,7 @@
 
  
 
-* My primary coding language: Javascript
-* Earned Gold badge & 5 star at HackerRank in Python programming.
+* My primary coding language: Javascript And Python
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://gauravprajapati.hashnode.dev/) & make educational [YouTube Videos](https://www.youtube.com/c/TechnicalGaurav9/).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
 * Join my [Discord server](https://discord.gg/) | [Telegram Channel](https://t.me/technicalgaurav1999).
