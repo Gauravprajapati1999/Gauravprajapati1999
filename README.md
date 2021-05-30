@@ -3,8 +3,8 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/covr.png)
-
+![alt text](
+https://github.com/Gauravprajapati1999/Gauravprajapati1999/blob/f20410f44a91daaef723e3f26c42158061d2dd72/IMG_20210530_061811.jpg)
 
 ### My Tech Toolbox 🧰
 
