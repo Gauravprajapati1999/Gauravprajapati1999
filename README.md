@@ -4,7 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 ![alt text](
-https://github.com/Gauravprajapati1999/Gauravprajapati1999/blob/f20410f44a91daaef723e3f26c42158061d2dd72/IMG_20210530_061811.jpg)
+https://github.com/Gauravprajapati1999/Gauravprajapati1999/blob/02e1bc6952cdc977639a622101b171362d35c8b4/20210603_155250_0000.png)
 
 ### My Tech Toolbox 🧰
 
