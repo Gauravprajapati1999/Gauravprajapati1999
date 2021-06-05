@@ -40,6 +40,7 @@ https://github.com/Gauravprajapati1999/Gauravprajapati1999/blob/1895dc99c98f5f34
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
 - [Understanding CSS Selectors: Pseudo-Class Selectors](https://gauravprajapati.hashnode.dev/understanding-css-selectors-pseudo-class-selectors)
+- [Introduction to Python Programming (Beginner’s Guide)](https://gauravprajapati.hashnode.dev/introduction-to-python-programming-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://gauravprajapati.hashnode.dev/)
 </td>
